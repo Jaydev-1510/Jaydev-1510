@@ -2,4 +2,6 @@
 <br>
 <br>
 <br>
-<img align='center' alt='🔄️Counting visitors..' src="https://svg-banners.vercel.app/api?type=luminance&text1=Hey,%20I'm%20Jaydev&width=800&height=200" /> 
+<h3 align='center'>
+  <img align='center' alt='My name here' src="https://svg-banners.vercel.app/api?type=luminance&text1=Hey,%20I'm%20Jaydev&width=800&height=200" /> 
+</h1>
