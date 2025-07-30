@@ -23,3 +23,6 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Jaydev-1510&theme=transparent&hide_border=true&border_radius=20&short_numbers=true&card_width=&card_height=" alt="GitHub Streak" />
 </p>
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00000000,50:FFFFFF,100:00000000&height=120&section=footer)
