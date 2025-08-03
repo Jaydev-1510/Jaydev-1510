@@ -12,7 +12,7 @@
 > <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=100%&pause=1000&color=E1E1E1&center=true&vCenter=true&width=900&lines=%F0%9F%8E%93+I+am+currently+a+high+school+student.;%F0%9F%8C%B1+I+am+a+curious+and+lifelong+learner.;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+I+am+an+aspiring+programmer.;%F0%9F%9B%A0%EF%B8%8F+I+enjoy+hacking+on+new+projects." alt="Typing SVG" /></a>
 <br>
 
-## 🚀GitHub Stats
+## 📊GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jaydev-1510&hide_border=true&count_private=true&show_icons=true&bg_color=90,0d111700,fff&text_color=fff&border_radius=20" style="max-width: 100%; height: auto">
