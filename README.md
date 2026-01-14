@@ -1,4 +1,4 @@
-<img align='right' alt='🔄️Counting visitors..' src='https://visitor-badge.laobi.icu/badge?page_id=jaydev-1510.jaydev-1510&left_color=rgb(0,0,0)&right_color=rgb(0,0,0)' /> 
+<img align='right' alt='🔄️Counting visitors..' src='https://visitor-badge.laobi.icu/badge?page_id=jaydev-1510.jaydev-1510&left_color=rgb(0,0,0,0)&right_color=rgb(0,0,0,0)' /> 
 
 # Jaydev Parmar
 High school student focusing on **technology**, **design**, and **hardware** for fun and to build a strong foundation.
